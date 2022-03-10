@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://alex1234:1234@devconnector.tuwim.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://alex1234:1234@devconnector.tuwim.mongodb.net/DevConnector?retryWrites=true&w=majority",
   "jwtSecret": "mysecrettoken"
 }
